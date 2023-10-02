@@ -1,10 +1,10 @@
-import TwoInput from './components/function_components/two_input';
+import OnKeyPress from './components/function_components/on_keypress';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <TwoInput />
+      <OnKeyPress />
     </div>
   );
 }
