@@ -1,10 +1,10 @@
-import Placeholder from './components/function_components/placeholder';
+import TwoInput from './components/function_components/two_input';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <Placeholder />
+      <TwoInput />
     </div>
   );
 }
