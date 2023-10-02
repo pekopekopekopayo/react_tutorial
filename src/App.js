@@ -1,11 +1,10 @@
-import Hello from './components/class_components/hello';
-
+import Placeholder from './components/function_components/placeholder';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <Hello />
+      <Placeholder />
     </div>
   );
 }
