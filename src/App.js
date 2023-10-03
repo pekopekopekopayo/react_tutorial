@@ -1,12 +1,12 @@
-import OnKeyPress from './components/function_components/on_keypress';
+import Validate from './components/function_components/validate';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <OnKeyPress />
+      <Validate />
     </div>
   );
 }
 
-export default App;
+export default Validate;
